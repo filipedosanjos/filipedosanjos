@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Filipe
 
-Sou um estudante de Engenharia de Computação apaixonado por desenvolvimento de software, buscando aprimorar meus conhecimentos nas principais tecnologias e ferramentes utilizadas no mercado.
+Sou um estudante de Engenharia de Computação apaixonado por desenvolvimento de software. Estou buscando aprimorar meus conhecimentos nas principais tecnologias e ferramentes utilizadas no mercado.
 
 - Domínio em: HTML, CSS, JavaScript, C, Node.js, Express, MySQL, Git, GitHub, JSON.
 - Atualmente estudando React e TypeScript.
