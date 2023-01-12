@@ -4,8 +4,8 @@
 
 Sou um estudante de Engenharia de Computação apaixonado por desenvolvimento de software. Estou buscando aprimorar meus conhecimentos nas principais tecnologias e ferramentes utilizadas no mercado.
 
-- Domínio em: HTML, CSS, JavaScript, C, Node.js, Express, MySQL, Git, GitHub, JSON.
-- Atualmente estudando React e TypeScript.
+- Domínio em: HTML, CSS, JavaScript, React, C, Node.js, Express, MySQL, Git, GitHub, JSON.
+- Atualmente estudando TypeScript e C#.
 - Busco deixar um legado positivo para as pessoas, mundando minha história e promovendo soluções de problemas através do desenvolvimento de software.
 
 <a href="mailto:filipeanjossousa@gmail.com" target="_blank"><img alt="Twitter Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
